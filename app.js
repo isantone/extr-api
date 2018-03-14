@@ -7,6 +7,11 @@ const bodyParser = require('body-parser');
 const app = express();
 const path = require('path');
 
+const allowedOrigins = [
+  'http://localhost:7777',
+  'http://localhost:7779'
+]
+
 function staticF(dirname, age) {
   console.log('http://localhost:3003/public');
   return express.static('http://localhost:3003/public', { maxAge: age });
@@ -28,7 +33,12 @@ app.get('/', (req, res) => {
 });
 
 app.use(function(req, res, next) {
-  res.header('Access-Control-Allow-Origin', 'http://localhost:7777');
+  const origin = req.headers.origin;
+
+  if (allowedOrigins.includes(origin)) {
+    res.setHeader('Access-Control-Allow-Origin', origin);
+  }
+
   res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
   res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept, Authorization");
   res.header('Access-Control-Allow-Credentials', true);
