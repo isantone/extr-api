@@ -1,0 +1,84 @@
+[
+  {
+    "email": "user@user.com",
+    "password": "user",
+    "token": 65899390236,
+    "cart": []
+  },
+  {
+    "email": "test@test.com",
+    "token": 34306651315,
+    "password": "test",
+    "cart": [
+      {
+        "id": 2,
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "email": "newuser@newuser.com",
+    "password": "newuser",
+    "token": 2768322501,
+    "cart": [
+      {
+        "id": 1,
+        "quantity": 3,
+        "product": {
+          "id": 1,
+          "title": "Burton Custom X Flying V",
+          "images": [
+            "http://localhost:3003/images/products/snowboard/1_1_s.jpg",
+            "http://localhost:3003/images/products/snowboard/1_2_s.jpg",
+            "http://localhost:3003/images/products/snowboard/1_3_s.jpg"
+          ],
+          "description": "text description",
+          "price": 749,
+          "category": "snowboard",
+          "type": "snowboards",
+          "availability": true
+        }
+      },
+      {
+        "id": 2,
+        "quantity": 1,
+        "product": {
+          "id": 2,
+          "title": "Burton Ripcord",
+          "images": [
+            "http://localhost:3003/images/products/snowboard/2_1_s.jpg",
+            "http://localhost:3003/images/products/snowboard/2_2_s.jpg",
+            "http://localhost:3003/images/products/snowboard/2_3_s.jpg"
+          ],
+          "description": "text description",
+          "price": 379,
+          "category": "snowboard",
+          "type": "snowboards",
+          "availability": true
+        }
+      },
+      {
+        "id": 4,
+        "quantity": 1,
+        "product": {
+          "id": 4,
+          "title": "Nordica ENFORCER 100",
+          "images": [
+            "http://localhost:3003/images/products/alpine-ski/4_1_s.jpg",
+            "http://localhost:3003/images/products/alpine-ski/4_2_s.jpg",
+            "http://localhost:3003/images/products/alpine-ski/4_3_s.jpg"
+          ],
+          "description": "text description",
+          "price": 799,
+          "category": "alpine-ski",
+          "type": "alpine-skis",
+          "availability": true
+        }
+      }
+    ]
+  }
+]

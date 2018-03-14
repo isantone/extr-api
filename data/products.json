@@ -1,0 +1,696 @@
+[
+  {
+    "id": 1,
+    "title": "Burton Custom X Flying V",
+    "images": [
+      "http://localhost:3003/images/products/snowboard/1_1_s.jpg",
+      "http://localhost:3003/images/products/snowboard/1_2.jpg",
+      "http://localhost:3003/images/products/snowboard/1_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 749,
+    "category": "snowboards",
+    "type": "snowboard",
+    "availability": true
+  },
+  {
+    "id": 2,
+    "title": "Burton Ripcord",
+    "images": [
+      "http://localhost:3003/images/products/snowboard/2_1_s.jpg",
+      "http://localhost:3003/images/products/snowboard/2_2.jpg",
+      "http://localhost:3003/images/products/snowboard/2_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 379,
+    "category": "snowboards",
+    "type": "snowboard",
+    "availability": true
+  },
+  {
+    "id": 3,
+    "title": "K2 Raygun",
+    "images": [
+      "http://localhost:3003/images/products/snowboard/3_1_s.jpg",
+      "http://localhost:3003/images/products/snowboard/3_2.jpg",
+      "http://localhost:3003/images/products/snowboard/3_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 399,
+    "category": "snowboards",
+    "type": "snowboard",
+    "availability": true
+  },
+  {
+    "id": 4,
+    "title": "Nordica ENFORCER 100",
+    "images": [
+      "http://localhost:3003/images/products/alpine-ski/4_1_s.jpg",
+      "http://localhost:3003/images/products/alpine-ski/4_2.jpg",
+      "http://localhost:3003/images/products/alpine-ski/4_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 799,
+    "category": "alpine-skis",
+    "type": "alpine-ski",
+    "availability": true
+  },
+  {
+    "id": 5,
+    "title": "Nordica ENFORCER 110",
+    "images": [
+      "http://localhost:3003/images/products/alpine-ski/5_1_s.jpg",
+      "http://localhost:3003/images/products/alpine-ski/5_2.jpg",
+      "http://localhost:3003/images/products/alpine-ski/5_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 849,
+    "category": "alpine-skis",
+    "type": "alpine-ski",
+    "availability": true
+  },
+  {
+    "id": 6,
+    "title": "Burton Custom X Flying V",
+    "images": [
+      "http://localhost:3003/images/products/snowboard/1_1_s.jpg",
+      "http://localhost:3003/images/products/snowboard/1_2.jpg",
+      "http://localhost:3003/images/products/snowboard/1_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 749,
+    "category": "snowboards",
+    "type": "snowboard",
+    "availability": false
+  },
+  {
+    "id": 7,
+    "title": "Burton Ripcord",
+    "images": [
+      "http://localhost:3003/images/products/snowboard/2_1_s.jpg",
+      "http://localhost:3003/images/products/snowboard/2_2.jpg",
+      "http://localhost:3003/images/products/snowboard/2_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 379,
+    "category": "snowboards",
+    "type": "snowboard",
+    "availability": true
+  },
+  {
+    "id": 8,
+    "title": "K2 Raygun",
+    "images": [
+      "http://localhost:3003/images/products/snowboard/3_1_s.jpg",
+      "http://localhost:3003/images/products/snowboard/3_2.jpg",
+      "http://localhost:3003/images/products/snowboard/3_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 399,
+    "category": "snowboards",
+    "type": "snowboard",
+    "availability": false
+  },
+  {
+    "id": 9,
+    "title": "Nordica ENFORCER 100",
+    "images": [
+      "http://localhost:3003/images/products/alpine-ski/4_1_s.jpg",
+      "http://localhost:3003/images/products/alpine-ski/4_2.jpg",
+      "http://localhost:3003/images/products/alpine-ski/4_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 799,
+    "category": "alpine-skis",
+    "type": "alpine-ski",
+    "availability": true
+  },
+  {
+    "id": 10,
+    "title": "Nordica ENFORCER 110",
+    "images": [
+      "http://localhost:3003/images/products/alpine-ski/5_1_s.jpg",
+      "http://localhost:3003/images/products/alpine-ski/5_2.jpg",
+      "http://localhost:3003/images/products/alpine-ski/5_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 849,
+    "category": "alpine-skis",
+    "type": "alpine-ski",
+    "availability": true
+  },
+  {
+    "id": 11,
+    "title": "Burton Custom X Flying V",
+    "images": [
+      "http://localhost:3003/images/products/snowboard/1_1_s.jpg",
+      "http://localhost:3003/images/products/snowboard/1_2.jpg",
+      "http://localhost:3003/images/products/snowboard/1_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 749,
+    "category": "snowboards",
+    "type": "snowboard",
+    "availability": true
+  },
+  {
+    "id": 12,
+    "title": "Burton Ripcord",
+    "images": [
+      "http://localhost:3003/images/products/snowboard/2_1_s.jpg",
+      "http://localhost:3003/images/products/snowboard/2_2.jpg",
+      "http://localhost:3003/images/products/snowboard/2_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 379,
+    "category": "snowboards",
+    "type": "snowboard",
+    "availability": false
+  },
+  {
+    "id": 13,
+    "title": "K2 Raygun",
+    "images": [
+      "http://localhost:3003/images/products/snowboard/3_1_s.jpg",
+      "http://localhost:3003/images/products/snowboard/3_2.jpg",
+      "http://localhost:3003/images/products/snowboard/3_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 399,
+    "category": "snowboards",
+    "type": "snowboard",
+    "availability": false
+  },
+  {
+    "id": 14,
+    "title": "Nordica ENFORCER 100",
+    "images": [
+      "http://localhost:3003/images/products/alpine-ski/4_1_s.jpg",
+      "http://localhost:3003/images/products/alpine-ski/4_2.jpg",
+      "http://localhost:3003/images/products/alpine-ski/4_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 799,
+    "category": "alpine-skis",
+    "type": "alpine-ski",
+    "availability": true
+  },
+  {
+    "id": 15,
+    "title": "Nordica ENFORCER 110",
+    "images": [
+      "http://localhost:3003/images/products/alpine-ski/5_1_s.jpg",
+      "http://localhost:3003/images/products/alpine-ski/5_2.jpg",
+      "http://localhost:3003/images/products/alpine-ski/5_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 849,
+    "category": "alpine-skis",
+    "type": "alpine-ski",
+    "availability": true
+  },
+  {
+    "id": 16,
+    "title": "Burton Custom X Flying V",
+    "images": [
+      "http://localhost:3003/images/products/snowboard/1_1_s.jpg",
+      "http://localhost:3003/images/products/snowboard/1_2.jpg",
+      "http://localhost:3003/images/products/snowboard/1_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 749,
+    "category": "snowboards",
+    "type": "snowboard",
+    "availability": true
+  },
+  {
+    "id": 17,
+    "title": "Burton Ripcord",
+    "images": [
+      "http://localhost:3003/images/products/snowboard/2_1_s.jpg",
+      "http://localhost:3003/images/products/snowboard/2_2.jpg",
+      "http://localhost:3003/images/products/snowboard/2_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 379,
+    "category": "snowboards",
+    "type": "snowboard",
+    "availability": true
+  },
+  {
+    "id": 18,
+    "title": "K2 Raygun",
+    "images": [
+      "http://localhost:3003/images/products/snowboard/3_1_s.jpg",
+      "http://localhost:3003/images/products/snowboard/3_2.jpg",
+      "http://localhost:3003/images/products/snowboard/3_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 399,
+    "category": "snowboards",
+    "type": "snowboard",
+    "availability": true
+  },
+  {
+    "id": 19,
+    "title": "Nordica ENFORCER 100",
+    "images": [
+      "http://localhost:3003/images/products/alpine-ski/4_1_s.jpg",
+      "http://localhost:3003/images/products/alpine-ski/4_2.jpg",
+      "http://localhost:3003/images/products/alpine-ski/4_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 799,
+    "category": "alpine-skis",
+    "type": "alpine-ski",
+    "availability": true
+  },
+  {
+    "id": 20,
+    "title": "Nordica ENFORCER 110",
+    "images": [
+      "http://localhost:3003/images/products/alpine-ski/5_1_s.jpg",
+      "http://localhost:3003/images/products/alpine-ski/5_2.jpg",
+      "http://localhost:3003/images/products/alpine-ski/5_3_s.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 849,
+    "category": "alpine-skis",
+    "type": "alpine-ski",
+    "availability": true
+  },
+  {
+    "id": 21,
+    "title": "DC Shoes Deadeye Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/21_1.jpg",
+      "http://localhost:3003/images/products/apparel/21_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 34,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 22,
+    "title": "DC Shoes Franchise Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/22_1.jpg",
+      "http://localhost:3003/images/products/apparel/22_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 39,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 23,
+    "title": "DC Shoes Deadeye Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/21_1.jpg",
+      "http://localhost:3003/images/products/apparel/21_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 34,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 24,
+    "title": "DC Shoes Franchise Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/22_1.jpg",
+      "http://localhost:3003/images/products/apparel/22_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 39,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": false
+  },
+  {
+    "id": 25,
+    "title": "DC Shoes Deadeye Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/21_1.jpg",
+      "http://localhost:3003/images/products/apparel/21_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 34,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 26,
+    "title": "DC Shoes Franchise Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/22_1.jpg",
+      "http://localhost:3003/images/products/apparel/22_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 39,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 27,
+    "title": "DC Shoes Deadeye Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/21_1.jpg",
+      "http://localhost:3003/images/products/apparel/21_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 34,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 28,
+    "title": "DC Shoes Franchise Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/22_1.jpg",
+      "http://localhost:3003/images/products/apparel/22_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 39,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": false
+  },
+  {
+    "id": 29,
+    "title": "DC Shoes Deadeye Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/21_1.jpg",
+      "http://localhost:3003/images/products/apparel/21_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 34,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 30,
+    "title": "DC Shoes Franchise Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/22_1.jpg",
+      "http://localhost:3003/images/products/apparel/22_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 39,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": false
+  },
+  {
+    "id": 31,
+    "title": "DC Shoes Deadeye Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/21_1.jpg",
+      "http://localhost:3003/images/products/apparel/21_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 34,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": false
+  },
+  {
+    "id": 32,
+    "title": "DC Shoes Franchise Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/22_1.jpg",
+      "http://localhost:3003/images/products/apparel/22_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 39,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 33,
+    "title": "DC Shoes Deadeye Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/21_1.jpg",
+      "http://localhost:3003/images/products/apparel/21_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 34,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": false
+  },
+  {
+    "id": 34,
+    "title": "DC Shoes Franchise Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/22_1.jpg",
+      "http://localhost:3003/images/products/apparel/22_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 39,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 35,
+    "title": "DC Shoes Deadeye Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/21_1.jpg",
+      "http://localhost:3003/images/products/apparel/21_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 34,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 36,
+    "title": "DC Shoes Franchise Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/22_1.jpg",
+      "http://localhost:3003/images/products/apparel/22_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 39,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 37,
+    "title": "DC Shoes Deadeye Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/21_1.jpg",
+      "http://localhost:3003/images/products/apparel/21_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 34,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 38,
+    "title": "DC Shoes Franchise Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/22_1.jpg",
+      "http://localhost:3003/images/products/apparel/22_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 39,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 39,
+    "title": "DC Shoes Deadeye Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/21_1.jpg",
+      "http://localhost:3003/images/products/apparel/21_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 34,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 40,
+    "title": "DC Shoes Franchise Snow Gloves",
+    "images": [
+      "http://localhost:3003/images/products/apparel/22_1.jpg",
+      "http://localhost:3003/images/products/apparel/22_2.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 39,
+    "category": "gloves",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 41,
+    "title": "DC Shoes Mutiny Lace Up Snowboard Boots",
+    "images": [
+      "http://localhost:3003/images/products/apparel/41_1.jpg",
+      "http://localhost:3003/images/products/apparel/41_2.jpg",
+      "http://localhost:3003/images/products/apparel/41_3.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 209,
+    "category": "snowboard-boots",
+    "type": "apparel",
+    "availability": false
+  },
+  {
+    "id": 42,
+    "title": "DC Shoes Control BOA Snowboard Boots",
+    "images": [
+      "http://localhost:3003/images/products/apparel/42_1.jpg",
+      "http://localhost:3003/images/products/apparel/42_2.jpg",
+      "http://localhost:3003/images/products/apparel/42_3.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 249,
+    "category": "snowboard-boots",
+    "type": "apparel",
+    "availability": false
+  },
+  {
+    "id": 43,
+    "title": "DC Shoes Phase Lace Up Snowboard Boots",
+    "images": [
+      "http://localhost:3003/images/products/apparel/43_1.jpg",
+      "http://localhost:3003/images/products/apparel/43_2.jpg",
+      "http://localhost:3003/images/products/apparel/43_3.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 149,
+    "category": "snowboard-boots",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 44,
+    "title": "DC Shoes Mutiny Lace Up Snowboard Boots",
+    "images": [
+      "http://localhost:3003/images/products/apparel/41_1.jpg",
+      "http://localhost:3003/images/products/apparel/41_2.jpg",
+      "http://localhost:3003/images/products/apparel/41_3.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 209,
+    "category": "snowboard-boots",
+    "type": "apparel",
+    "availability": false
+  },
+  {
+    "id": 45,
+    "title": "DC Shoes Control BOA Snowboard Boots",
+    "images": [
+      "http://localhost:3003/images/products/apparel/42_1.jpg",
+      "http://localhost:3003/images/products/apparel/42_2.jpg",
+      "http://localhost:3003/images/products/apparel/42_3.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 249,
+    "category": "snowboard-boots",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 46,
+    "title": "DC Shoes Phase Lace Up Snowboard Boots",
+    "images": [
+      "http://localhost:3003/images/products/apparel/43_1.jpg",
+      "http://localhost:3003/images/products/apparel/43_2.jpg",
+      "http://localhost:3003/images/products/apparel/43_3.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 149,
+    "category": "snowboard-boots",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 42,
+    "title": "DC Shoes Control BOA Snowboard Boots",
+    "images": [
+      "http://localhost:3003/images/products/apparel/42_1.jpg",
+      "http://localhost:3003/images/products/apparel/42_2.jpg",
+      "http://localhost:3003/images/products/apparel/42_3.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 249,
+    "category": "snowboard-boots",
+    "type": "apparel",
+    "availability": false
+  },
+  {
+    "id": 47,
+    "title": "DC Shoes Phase Lace Up Snowboard Boots",
+    "images": [
+      "http://localhost:3003/images/products/apparel/43_1.jpg",
+      "http://localhost:3003/images/products/apparel/43_2.jpg",
+      "http://localhost:3003/images/products/apparel/43_3.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 149,
+    "category": "snowboard-boots",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 48,
+    "title": "DC Shoes Mutiny Lace Up Snowboard Boots",
+    "images": [
+      "http://localhost:3003/images/products/apparel/41_1.jpg",
+      "http://localhost:3003/images/products/apparel/41_2.jpg",
+      "http://localhost:3003/images/products/apparel/41_3.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 209,
+    "category": "snowboard-boots",
+    "type": "apparel",
+    "availability": false
+  },
+  {
+    "id": 49,
+    "title": "DC Shoes Control BOA Snowboard Boots",
+    "images": [
+      "http://localhost:3003/images/products/apparel/42_1.jpg",
+      "http://localhost:3003/images/products/apparel/42_2.jpg",
+      "http://localhost:3003/images/products/apparel/42_3.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 249,
+    "category": "snowboard-boots",
+    "type": "apparel",
+    "availability": true
+  },
+  {
+    "id": 50,
+    "title": "DC Shoes Phase Lace Up Snowboard Boots",
+    "images": [
+      "http://localhost:3003/images/products/apparel/43_1.jpg",
+      "http://localhost:3003/images/products/apparel/43_2.jpg",
+      "http://localhost:3003/images/products/apparel/43_3.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum id cum voluptas iusto harum iste, mollitia hic inventore quas quod eius. Possimus vel quaerat deleniti ducimus, sit minus aut enim?",
+    "price": 149,
+    "category": "snowboard-boots",
+    "type": "apparel",
+    "availability": true
+  }
+]

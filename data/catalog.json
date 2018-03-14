@@ -1,0 +1,81 @@
+[
+  {
+    "title": "Snowboarding",
+    "name": "snowboard",
+    "image": "http://localhost:3003/images/products/snowboard/category.png",
+    "catalogUrl": "http://localhost:3003/api/categories/snowboard",
+    "catalog": [
+      {
+        "name": "snowboard-boots",
+        "title": "Snowboard boots",
+        "productsUrl": "http://localhost:3003/api/categories/snowboard/boots",
+        "image": "http://localhost:3003/images/catalog/snowboard-boots.svg"
+      },
+      {
+        "name": "snowboards",
+        "title": "Snowboards",
+        "productsUrl": "http://localhost:3003/api/categories/snowboard/snowboards",
+        "image": "http://localhost:3003/images/catalog/snowboards.svg"
+      },
+      {
+        "name": "snowboard-bindings",
+        "title": "Snowboard bindings",
+        "productsUrl": "http://localhost:3003/api/categories/snowboard/bindings",
+        "image": "http://localhost:3003/images/catalog/snowboard-bindings.svg"
+      }
+    ]
+  },
+  {
+    "title": "Alpine skiing",
+    "name": "alpine-ski",
+    "image": "http://localhost:3003/images/products/alpine-ski/category.png",
+    "catalogUrl": "http://localhost:3003/api/categories/alpine-ski",
+    "catalog": [
+      {
+        "name": "alpine-ski-boots",
+        "title": "Alpine ski boots",
+        "productsUrl": "http://localhost:3003/api/categories/alpine-ski/boots",
+        "image": "http://localhost:3003/images/catalog/alpine-ski-boots.svg"
+      },
+      {
+        "name": "alpine-skis",
+        "title": "Alpine skis",
+        "productsUrl": "http://localhost:3003/api/categories/alpine-ski/skis",
+        "image": "http://localhost:3003/images/catalog/alpine-skis.svg"
+      },
+      {
+        "name": "alpine-ski-bindings",
+        "title": "Alpine ski bindings",
+        "productsUrl": "http://localhost:3003/api/categories/alpine-ski/bindings",
+        "image": "http://localhost:3003/images/catalog/alpine-ski-bindings.svg"
+      }
+    ]
+  },
+  {
+    "title": "Apparel & Accessories",
+    "name": "apparel",
+    "image": "http://localhost:3003/images/products/snowboard/category.png",
+    "catalogUrl": "http://localhost:3003/api/categories/apparel",
+    "catalog": [
+      {
+        "name": "gloves",
+        "title": "Snowboard & ski gloves",
+        "productsUrl": "http://localhost:3003/api/categories/apparel/gloves",
+        "image": "http://localhost:3003/images/catalog/gloves.svg"
+      },
+      {
+        "name": "pants",
+        "title": "Snowboard & ski pants",
+        "productsUrl": "http://localhost:3003/api/categories/appearel/pants",
+        "image": "http://localhost:3003/images/catalog/pants.svg"
+      },
+      {
+        "name": "goggles",
+        "title": "Snowboard & ski goggles",
+        "productsUrl": "http://localhost:3003/api/categories/apparel/goggles",
+        "image": "http://localhost:3003/images/catalog/goggles.svg"
+      }
+    ]
+  }
+]
+
